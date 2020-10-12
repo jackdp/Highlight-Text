@@ -1,4 +1,4 @@
-﻿# Highlight Text
+# Highlight Text
 
 A small command-line utility which highlights the given substring in the specified text with the specified color.
 
@@ -24,7 +24,7 @@ You can use the `-t`, `-c`, and `-s` options multiple times.
 |-------------------------------------|---------------------------------------------------------------------------|
 | `-t`, `--highlight-text=STR`        | Text to be highlighted.                                         |
 | `-c`, `--colors=FgColor[,BgColor]`  | The foreground and background color used to highlight the specified text. See the list of available colors below. |
-| `-s`, `--case-sensitive=1|0`        | Consider the character case when searching for the text to highlight. By default `-s=0` (not case sensitive) |
+| `-s`, `--case-sensitive=1/0`  | Consider the character case when searching for the text to highlight. By default `-s=0` (not case sensitive) |
 | `-l`, `--log-colors`                | Highlight some special words used in the logs such as Error, Failed, Warning, Success etc. |
 | `-h`, `--help`                      | Show this help.                                                           |
 | `-V`, `--version`                   | Show application version.                                                 |
