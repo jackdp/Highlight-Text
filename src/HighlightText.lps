@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Debug Win32"/>
+    <Units Count="8">
+      <Unit0>
+        <Filename Value="HighlightText.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos Y="70"/>
+        <UsageCount Value="70"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="HLT.App.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="12" Y="11"/>
+        <UsageCount Value="70"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="HLT.Types.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="65" Y="21"/>
+        <UsageCount Value="70"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\..\libs\JPLib\Base\JPL.Console.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="446"/>
+        <CursorPos X="96" Y="495"/>
+        <UsageCount Value="35"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\libs\JPLib\Base\JPL.Console.ColorParser.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="148"/>
+        <CursorPos X="90" Y="183"/>
+        <UsageCount Value="35"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\..\libs\JPLib\Base\JPL.CmdLineParser.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="909"/>
+        <CursorPos Y="917"/>
+        <UsageCount Value="32"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\..\libs\JPLib\Base\JPL.ConsoleApp.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="221"/>
+        <CursorPos X="3" Y="386"/>
+        <UsageCount Value="28"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\LAZ\FPCD_LAZ20_FIXES_FPC320\fpcsrc\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="37"/>
+        <CursorPos X="5" Y="62"/>
+        <UsageCount Value="9"/>
+      </Unit7>
+    </Units>
+    <JumpHistory Count="20" HistoryIndex="19">
+      <Position1>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="334" Column="40" TopLine="320"/>
+      </Position1>
+      <Position2>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="279" Column="31" TopLine="254"/>
+      </Position2>
+      <Position3>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="360" Column="97" TopLine="339"/>
+      </Position3>
+      <Position4>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="372" TopLine="346"/>
+      </Position4>
+      <Position5>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="363" Column="34" TopLine="323"/>
+      </Position5>
+      <Position6>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="274" Column="23" TopLine="256"/>
+      </Position6>
+      <Position7>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="38" Column="56"/>
+      </Position7>
+      <Position8>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="24" Column="18"/>
+      </Position8>
+      <Position9>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="72" Column="14" TopLine="30"/>
+      </Position9>
+      <Position10>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="228" Column="18" TopLine="205"/>
+      </Position10>
+      <Position11>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="331" Column="7" TopLine="296"/>
+      </Position11>
+      <Position12>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="330" Column="74" TopLine="305"/>
+      </Position12>
+      <Position13>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="321" Column="82" TopLine="293"/>
+      </Position13>
+      <Position14>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="106" Column="27" TopLine="80"/>
+      </Position14>
+      <Position15>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="214" Column="22" TopLine="194"/>
+      </Position15>
+      <Position16>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="167" Column="96" TopLine="134"/>
+      </Position16>
+      <Position17>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="69" Column="61" TopLine="37"/>
+      </Position17>
+      <Position18>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="308" Column="25" TopLine="282"/>
+      </Position18>
+      <Position19>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="374" Column="13" TopLine="345"/>
+      </Position19>
+      <Position20>
+        <Filename Value="HLT.App.pas"/>
+        <Caret Line="306" Column="11" TopLine="280"/>
+      </Position20>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
