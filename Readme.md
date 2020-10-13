@@ -69,7 +69,7 @@ Color names are case insensitive.
   Result:  
   ![HighlightText - Example1 Result](./doc/HighlightText-Example3.png)
 
-4. Nested highlighting. Highlight the text `ConEmu` and `eN` in the variable list returned by the **set** command:  
+4. Nested highlighting. Highlight the text `ConEmu` and `nE` in the variable list returned by the **set** command:  
   `set | hlt -t ConEmu -c black,blue -s 1 -t nE`  
   Result:  
   ![HighlightText - Example1 Result](./doc/HighlightText-Example4.png)
