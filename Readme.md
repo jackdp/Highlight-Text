@@ -38,7 +38,7 @@ You can provide multiple text values in any combination with the options.
 
 ### Available colors
 
-![TJppBasicPngButtonEx](./doc/HighlightText-Colors.png)
+![HighlightText-Colors](./doc/HighlightText-Colors.png)
 
 Fuchsia = LightMagenta  
 Lime = LightGreen  
